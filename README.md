@@ -36,3 +36,6 @@ Meu objetivo é crescer como desenvolvedor, consolidar bem os fundamentos e evol
 - GitHub: https://github.com/HugoDeleon370  
 - Instagram: https://www.instagram.com/hugo.dellleon
 
+## 🐍 Minhas contribuições ganhando vida
+
+![Snake animation](https://github.com/HugoDeleon370/HugoDeleon370/blob/output/github-contribution-grid-snake-dark.svg)
