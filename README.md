@@ -1,40 +1,85 @@
-# 👋 Olá, eu sou o Hugo
+# 👨‍💻 Hugo Deleon da Silva
 
-🎯 Desenvolvedor em formação, focado em evoluir diariamente através de projetos práticos.
+Estudante de engenharia de software em evolução contínua.  
+Atualmente focado em backend, com estudos em **Java, Spring Boot, Maven e SQL**, além de projetos práticos em **Python** e aplicações desktop.
 
-Atualmente estudando e praticando:
-- 💻 HTML, CSS e JavaScript
-- 🐍 Python
-- 📊 SQL e fundamentos de dados
+Geralmente aprendo construindo projetos reais e incrementando versões, documentando melhorias e correções ao longo do caminho.
 
 ---
 
-## 🚀 Projetos em destaque
-Aqui estão alguns projetos que representam minha evolução como desenvolvedor:
+## 🚀 Tecnologias em estudo
 
-🔹 **Gerenciador de Tarefas (Python)**
-- Aplicação para criar, listar e organizar tarefas
-- Desenvolvido em Python
-- Foco em lógica de programação, organização de código e boas práticas
-
-🔹 **Projetos Front-end**
-- Interfaces desenvolvidas com HTML, CSS e JavaScript
-- Projetos focados em aprendizado prático e evolução constante
-
-*(Mais detalhes nos repositórios abaixo 👇)*
+- Java
+- Spring Boot
+- Maven
+- Eclipse IDE
+- Python
+- SQLite
+- CustomTkinter
+- Git e GitHub
+- Lógica de Programação
+- Padrões de Arquitetura (MVC em estudo)
 
 ---
 
-## 📚 Objetivo
-Meu objetivo é crescer como desenvolvedor, consolidar bem os fundamentos e evoluir para projetos cada vez mais completos.
+## 🧪 Projetos em destaque
 
-📈 Estou constantemente estudando, praticando e melhorando meus projetos.
+### 📌 Gerenciador de Tarefas Desktop (Python)
+Aplicação desktop com interface gráfica para controle de tarefas.
+
+**Recursos:**
+- CRUD completo
+- Banco SQLite
+- Validação de dados
+- Filtro por status
+- Versão executável (.exe)
+- Evolução planejada para v2 com arquitetura melhorada
+
+---
+
+### ☕ Estudos Java + Spring Boot
+Repositórios voltados a aprendizado do ecossistema Java:
+- configuração de ambiente
+- primeiros projetos Maven
+- introdução ao Spring Boot
+- testes de estrutura backend
+
+Objetivo é evoluir para APIs REST completas.
+
+---
+
+## 🎯 Objetivos atuais
+
+- Aprofundar em Java backend
+- Construir APIs REST com Spring Boot
+- Aplicar boas práticas de arquitetura
+- Documentar melhor os projetos
+- Evoluir projetos v1 para v2 com melhor estrutura
+
+---
+
+## 📚 Método de aprendizado
+
+Aprendizado baseado em:
+- projetos práticos
+- melhoria incremental
+- correção de erros reais
+- versionamento contínuo
+- documentação progressiva
+
+---
+
+
+
+⭐ Projetos em constante evolução. Código é obra viva.
+
 
 ---
 
 ## 📫 Contato
 - GitHub: https://github.com/HugoDeleon370  
 - Instagram: https://www.instagram.com/hugo.dellleon
+- LinkedIn: www.linkedin.com/in/hugodeleon370
 
 ## 🐍 Minhas contribuições ganhando vida
 
